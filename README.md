@@ -1,10 +1,20 @@
-## Olá, eu sou o Caio Willian
+# Olá, eu sou o Caio Willian 👋
 
-<div>
-  <img height='160em' src='https://github-readme-stats.vercel.app/api?username=CaioWill&show_icons=true&theme=dracula&include_all_commits=true&count_private=true'/>
-  <img height='160em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWill&layout=compact&langs_count=16&theme=dracula'/>
-</div>
+Estudante de Engenharia Elétrica na UFCG, aprofundando conhecimentos em desenvolvimento Back-end com Python.
 
-<div style='display= inline_block'><br>
-  <img aline='center' alt='Caio-Python' heght='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do Caio](https://github-readme-stats.vercel.app/api?username=CaioWill&show_icons=true&theme=dracula)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWill&layout=compact&theme=dracula)
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-willian-52156026b/)
