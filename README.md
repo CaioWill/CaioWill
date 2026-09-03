@@ -3,6 +3,7 @@
 Estudante de Engenharia Elétrica na UFCG, aprofundando conhecimentos em desenvolvimento Back-end com Python.
 
 
+
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -13,11 +14,14 @@ Estudante de Engenharia Elétrica na UFCG, aprofundando conhecimentos em desenvo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
+
 ## 📊 Estatísticas do GitHub
-![Estatísticas do Caio](https://github-readme-stats.vercel.app/api?username=CaioWill&show_icons=true&theme=dracula)
+![Estatísticas do Caio](https://github-readme-stats-bice-iota-93.vercel.app/api?username=CaioWill&show_icons=true&theme=dracula)
 
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWill&layout=compact&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats-bice-iota-93.vercel.app/api/top-langs/?username=CaioWill&layout=compact&theme=dracula)
+
+
 
 
 ## 📫 Contato
